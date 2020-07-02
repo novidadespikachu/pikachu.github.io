@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.pikachu" name="[B][COLOR yellow][B]PIKACHU [COLOR firebrick] ENTRETENIMENTOS!!![/B][/COLOR]" version="1.0" provider-name="[B][COLOR yellow][B]PIKACHU [COLOR firebrick] ENTRETENIMENTOS!!![/B][/COLOR]">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+</requires>
+<extension point="xbmc.addon.repository" name="[B][COLOR yellow][B]PIKACHU [COLOR firebrick] ENTRETENIMENTOS!!![/B][/COLOR]">
+<info compressed="false">https://raw.githubusercontent.com/youjazz/repopikachu/master/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/youjazz/repopikachu/master/addons.xml.md5</checksum>
+<datadir zip="true">https://github.com/youjazz/repopikachu/raw/master</datadir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<news>
+</news>
+<summary>Repositorio oficial do Pikachu</summary>
+<description></description>
+<disclaimer>[B][COLOR yellow] PIKACHU [COLOR lime] ENTRETENIMENTOS!!![/COLOR][/B]</disclaimer>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+</assets>
+</extension>
+</addon>
